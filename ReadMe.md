@@ -28,3 +28,4 @@ postgresql://postgres:admin@127.0.0.1:5432/postgres
 chrome 접속
 http://127.0.0.1:8000/docs#
 ````
+> https://fastapi.tiangolo.com/tutorial/metadata/
